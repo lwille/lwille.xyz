@@ -1,5 +1,5 @@
 # Hi!
 
-I'm currently traveling, check out my recent photos [/photos.html](here).
+I'm currently traveling, check out my recent [photos](/photos.html).
 
-[/contact_me.html](get in touch)
+[contact me!](/contact_me.html)
