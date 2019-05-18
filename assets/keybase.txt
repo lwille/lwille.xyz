@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lwille
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lwille.xyz
+  * I am lwille (https://keybase.io/lwille) on keybase.
+  * I have a public key ASB44SRQ25uZN-2kWzloH0OxPqj3TZVUisJH2lhWuJ11ogo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012078e12450db9b9937eda45b39681f43b13ea8f74d95548ac247da5856b89d75a20a",
+      "host": "keybase.io",
+      "kid": "012078e12450db9b9937eda45b39681f43b13ea8f74d95548ac247da5856b89d75a20a",
+      "uid": "5bee68d59f722e8fe0ff41f5a94efa19",
+      "username": "lwille"
+    },
+    "merkle_root": {
+      "ctime": 1558194658,
+      "hash": "0deb36a83bf8fcf92dea30b1ab8fb1b64059a8e10e2dc88a96ba9f0ecec8b580e34f13d440b9005f8026f82f6aa39d3161bf1858d08a80917d4f86bdb374f893",
+      "hash_meta": "af68e1a943847c5e9cbb1a259328ffd4e08a15da90fa615994b83a77e33b74c5",
+      "seqno": 5399745
+    },
+    "service": {
+      "entropy": "KkU9uDoyuLd+tGBwCy5Foymx",
+      "hostname": "lwille.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558194668,
+  "expire_in": 504576000,
+  "prev": "3382f296d7bfeddbe52bac1a6fcdfca9240e1bd18699a15c50dbb88263531548",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeOEkUNubmTftpFs5aB9DsT6o902VVIrCR9pYVriddaIKp3BheWxvYWTESpcCDcQgM4Lylte/7dvlK6wab838qSQOG9GGmaFcUNu4gmNTFUjEIPzUnXj2s6e3A+UpVzXlMql8R9OUK2TIZlwogmpiViyXAgHCo3NpZ8RA3ltpLjetFukKcWXqd6oFvhLIUtsm4iRItCRRTHbwY2KWP68Xrh7h1GI3ncBLYgn3YPlj68UcJk1eP3f1jm0ACahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPnyD+lgIGW8qDFi4gUOyGH90VuwescK2JFtuA/WraMTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lwille
+
+==================================================================
