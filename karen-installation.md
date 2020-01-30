@@ -29,7 +29,7 @@
 
 * Adblocker `uBlock Origin` von [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) runterladen und installieren
 
-* Grafiktreiber runterladen und installieren von [https://drivers.amd.com](https://www.amd.com/de/support/apu/amd-series-processors/amd-a8-series-apu-for-desktops/7th-gen-a8-9600-apu) - dauert paar Minuten und erfordert Neustart
+* Grafiktreiber "Adrenalin 2020 Edition 20.1.3 Recommended (WHQL)" runterladen und installieren von [https://drivers.amd.com](https://www.amd.com/de/support/apu/amd-series-processors/amd-a8-series-apu-for-desktops/7th-gen-a8-9600-apu) - dauert paar Minuten und erfordert Neustart
 
 * LibreOffice von https://libreoffice.org runterladen und installieren
 
