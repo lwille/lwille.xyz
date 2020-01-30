@@ -21,7 +21,7 @@
   * es werden "fortgeschrittene" Probleme gemeldet, die aber nur mit der Premium Version behoben werden können - das beinhaltet z.B. eine stärkere Firewall - also erstmal ignorieren.
   * am Ende kommt evtl. ein Hinweis "Geschenk ansehen"; dort verbirgt sich ein Sonderangebot für 19.99€/Jahr - braucht man nicht unbedingt.
 * Adblocker `uBlock Origin` von [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) runterladen und installieren
-* Grafiktreiber `Adrenalin 2020 Edition 20.1.3 Recommended (WHQL)` runterladen und installieren von [https://drivers.amd.com](https://www.amd.com/de/support/apu/amd-series-processors/amd-a8-series-apu-for-desktops/7th-gen-a8-9600-apu) - dauert paar Minuten und erfordert Neustart
+* Grafiktreiber `Adrenalin 2020 Edition 20.1.3 Recommended (WHQL)` für `Windows 10 - 64-Bit Edition` runterladen und installieren von [https://drivers.amd.com](https://www.amd.com/de/support/apu/amd-series-processors/amd-a8-series-apu-for-desktops/7th-gen-a8-9600-apu) - dauert paar Minuten und erfordert Neustart
 * LibreOffice von [libreoffice.org](https://libreoffice.org) runterladen und installieren
 * VLC Videoplayer von [videolan.org](https://videolan.org) runterladen und installieren
 
