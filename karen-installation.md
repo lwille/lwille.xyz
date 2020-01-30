@@ -29,7 +29,7 @@
 
 * Adblocker `uBlock Origin` von [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) runterladen und installieren
 
-* Grafiktreiber runterladen und installieren von [https://drivers.amd.com](https://drivers.amd.com/drivers/installer/19.50/beta/radeon-software-adrenalin-2020-20.1.3-minimalsetup-200120_web.exe) - dauert paar Minuten und erfordert Neustart
+* Grafiktreiber runterladen und installieren von [https://drivers.amd.com](https://drivers.amd.com/drivers/win10-radeon-software-adrenalin-2020-edition-20.1.3-jan29.exe) - dauert paar Minuten und erfordert Neustart
 
 * LibreOffice von https://libreoffice.org runterladen und installieren
 
